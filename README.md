@@ -17,3 +17,7 @@ With *emphasis*.
 - Unordered list entry 2
     Second line
 - 3rd entry
+
+## Section 3
+
+![my image title](random.png "random image")
