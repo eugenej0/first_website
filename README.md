@@ -15,8 +15,15 @@ With *emphasis*.
 
 - Unordered list entry 1
 - Unordered list entry 2
+
     Second line
 - 3rd entry
+
+A | B | C
+
+A | B | C
+---- | ----- | -----
+D | E | F
 
 ## Section 3
 
